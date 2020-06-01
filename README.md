@@ -26,4 +26,4 @@ candidates.txt - This is a redundant text file with the initial contents of cand
 
 ![](preview/2.PNG)
 
-![](preview/network.PNG)
+![](preview/network.png)
