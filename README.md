@@ -1,6 +1,6 @@
 # influentialLeaderDetection
 
-Determines the influence and popularity a political leader by calculating the user's spread of communication with the help of retweets.<br>
+Determines the influence and popularity of a political leader by calculating the user's spread of communication with the help of retweets.<br>
 
 
 The goal is to use the Twitter API to construct a social network of these
