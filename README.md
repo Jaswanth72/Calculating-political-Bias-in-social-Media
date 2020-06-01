@@ -14,9 +14,16 @@ to plot these links, as well as print some statistics of the resulting graph.
 3. Add your tokens to the key/token variables below. (API Key == Consumer Key)
 4. Be sure you've installed the Python modules
 [networkx](http://networkx.github.io/) and
-[TwitterAPI](https://github.com/geduldig/TwitterAPI). Assuming you've already installed [pip(http://pip.readthedocs.org/en/latest/installing.html), you can
-do this with `pip install networkx TwitterAPI`.
+[TwitterAPI](https://github.com/geduldig/TwitterAPI).
 
 p0.py - I used this initially to check whether the connection with the api was successfull. This file is also responsible for collecting the user dataset, given a seed user and storing it in twitteridsnew.txt.<br>
 
-Candidates.txt - This is a redundant text file with the initial contents of Candidates.
+candidates.txt - This is a redundant text file with the initial contents of candidates.
+
+# ScreenShots
+
+![](preview/1.PNG)
+
+![](preview/2.PNG)
+
+![](preview/network.PNG)
